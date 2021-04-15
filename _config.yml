@@ -6,8 +6,8 @@ show_pages: true
 custom_pages:
   - name: Home
     url: /
-  - name: Documentation
-    url: /documentation
+  - name: Changelog
+    url: /changelog
   - name: Downloads
     url: /downloads
 github:
