@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+[![Discord](https://img.shields.io/discord/817130660527079515?style=for-the-badge)](https://discord.gg/qUbJye86UN)
+[![GitHub all releases](https://img.shields.io/github/downloads/fabricated-pack/fabricated/total?style=for-the-badge)](https://github.com/fabricated-pack/fabricated/releases/latest)
+[![GitHub issues](https://img.shields.io/github/issues-raw/GayCookie/Fabricated?style=for-the-badge)](https://github.com/fabricated-pack/fabricated/issues)
+[![GitHub contributors](https://img.shields.io/github/contributors/GayCookie/Fabricated?style=for-the-badge)](https://github.com/fabricated-pack/fabricated/graphs/contributors)  
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/GayCookie/Fabricated?style=for-the-badge)](https://github.com/fabricated-pack/fabricated/releases/latest)
+[![GitHub Release Date](https://img.shields.io/github/release-date/GayCookie/Fabricated?style=for-the-badge)](https://github.com/fabricated-pack/fabricated/releases/latest)
+[![GitHub last commit](https://img.shields.io/github/last-commit/GayCookie/Fabricated?style=for-the-badge)](https://github.com/fabricated-pack/fabricated/commit/main)
 
-You can use the [editor on GitHub](https://github.com/fabricated-pack/fabricated-pack.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# Fabricated
+Yet another tech related mod pack!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Technical
+**Minecraft version:** 1.16.5  
+**Fabric version:** 0.11.3  
+**Mod pack version:** 0.0.8  
+**Tested on:** [MultiMC] & [CurseForge]
 
-### Markdown
+## [Documentation]
+**All information and questions can be found in the [documentation].**  
+If you still have questions or you can not find information you need.  
+Feel free to join the our [Discord] or ask in our [discussions] section.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Contributing
+Contributions are amazing but can also be a pain.  
+Before you start contributing to this project, make sure you know how [packwiz] works.  
+And it would always be appreciated if you talked with me before doing a pull-request.  
+When you're ready to do a pull-request, make sure to read our ~~Contributing page on the~~ [documentation]
 
-```markdown
-Syntax highlighted code block
+## Download pre-build
+To download the latest release of the mod pack you can click [here](https://github.com/fabricated-pack/fabricated/releases/latest).  
+Or look at the other versions [here](https://github.com/fabricated-pack/fabricated/tags), if you want another version.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fabricated-pack/fabricated-pack.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Discord]: https://discord.gg/qUbJye86UN
+[discussions]: https://github.com/fabricated-pack/fabricated/discussions
+[documentation]: https://github.com/fabricated-pack/fabricated/wiki
+[MultiMC]: https://multimc.org/
+[CurseForge]: https://curseforge.overwolf.com/
+[packwiz]: https://github.com/comp500/packwiz
