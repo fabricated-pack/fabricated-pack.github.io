@@ -2,5 +2,13 @@ theme: jekyll-theme-leap-day
 title: Fabricated
 description: Yet another tech related mod pack!
 show_downloads: true
+show_pages: true
+custom_pages:
+  - name: Home
+    url: /
+  - name: Documentation
+    url: /documentation
+  - name: Downloads
+    url: /downloads
 github:
   zip_url: https://github.com/fabricated-pack/fabricated/releases/latest/download/Fabricated.zip

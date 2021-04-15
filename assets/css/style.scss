@@ -58,3 +58,20 @@ header {
         box-shadow: none !important;
     }
 }
+
+.pages {
+    position: fixed;
+    left: 50%;
+    margin-left: -340px;
+  
+    span {
+      float: left;
+      line-height: 52px;
+      font-size: 90%;
+      background-color: rgba(18, 18, 18, .7) !important;
+      border: 1px solid rgba(18, 18, 18, .8) !important;
+      color: $text-color !important;
+      box-shadow: none !important;
+      text-transform: uppercase;
+    }
+  }

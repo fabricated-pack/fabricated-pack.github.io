@@ -24,7 +24,15 @@
       <div id="banner">
         <span id="logo"></span>
 
-        <a href="{{ site.github.repository_url }}" class="button fork"><strong>View On GitHub</strong></a>
+        {% if site.show_pages %}
+          <div class="pages">
+            <ul>
+              {% for page in site.custom_pages %}
+                <li><a href="{{ page.url }}" class="button active">{{ page.name }}</a></li>
+              {% endfor %}
+            </ul>
+          </div>
+        {% endif %}
         {% if site.show_downloads %}
           <div class="downloads">
             <span>Downloads:</span>
