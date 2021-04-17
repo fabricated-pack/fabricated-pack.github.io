@@ -1,0 +1,48 @@
+site_name: Fabricated
+
+repo_name: Fabricated
+repo_url: https://github.com/fabricated-pack/fabricated
+edit_uri: "https://github.com/fabricated-pack/fabricated-pack.github.io/edit/main/docs"
+
+nav:
+  - Home: index.md
+  - Installation: 
+    - Client Installation:
+      - MultiMC: install/multimc.md
+      - CurseForge: install/curseforge.md
+      - GDLauncher: install/gdlauncher.md
+    - Server Installation:
+      - Scripts: install/server_scripts.md
+      - Manually: install/server_manually.md
+
+extra_css:
+  - styles/extra.css
+
+theme:
+  name: material
+  icon:
+    repo: fontawesome/brands/github
+  features:
+    - navigation.sections
+    - navigation.tracking
+    - navigation.tabs
+    - search.highlight
+  font:
+    text: Roboto
+    code: Roboto Mono
+  palette:
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: teal
+      accent: teal
+      toggle:
+        icon: material/lightbulb
+        name: Switch to light mode
+
+    - pink: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/lightbulb-outline
+        name: Switch to dark mode
