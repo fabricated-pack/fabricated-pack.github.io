@@ -5,7 +5,7 @@ repo_url: https://github.com/fabricated-pack/fabricated
 edit_uri: "https://github.com/fabricated-pack/fabricated-pack.github.io/edit/main/docs"
 
 nav:
-  - Home: index.md
+  - Getting Started: index.md
   - Installation: 
     - Client Installation:
       - MultiMC: install/multimc.md
@@ -14,9 +14,14 @@ nav:
     - Server Installation:
       - Scripts: install/server_scripts.md
       - Manually: install/server_manually.md
+  - Changelog: changelog.md
 
 extra_css:
   - styles/extra.css
+
+markdown_extensions:
+  - toc:
+      toc_depth: 3
 
 theme:
   name: material
